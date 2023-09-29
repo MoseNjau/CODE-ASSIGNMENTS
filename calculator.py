@@ -1,3 +1,6 @@
+# NAME: Moses Muiruri Njau
+# REG_NO: SCT211-0002/2022
+
 # Basic calculator performing the four operations
 name = input('Please enter your name: ')
 print()
