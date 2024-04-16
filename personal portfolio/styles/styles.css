@@ -326,6 +326,27 @@
   .about-stats .progress-bars .progress-bar .progress-con .progress .python {
     width: 70%;
   }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .django {
+    width: 75%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+    width: 80%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .dsa {
+    width: 57%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .vcontrol {
+    width: 83%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .psolving {
+    width: 84%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .pmgt {
+    width: 87%;
+  }
+  .about-stats .progress-bars .progress-bar .progress-con .progress .uxperience {
+    width: 71%;
+  }
   
   .stat-title {
     text-transform: uppercase;
